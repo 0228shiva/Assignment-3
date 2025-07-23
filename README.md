@@ -12,6 +12,7 @@ This project focuses on building a small RPA (Robotic Process Automation) pipeli
 - Generate visual reports using bar plots and pie charts.
 
 ## Project Structure
+
 rpa_inventory_project/
 │
 ├── data/
