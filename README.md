@@ -23,10 +23,10 @@ rpa_inventory_project/
 │ ├── main.py # Script to clean the data
 │ └── analyze_inventory.py # Script to generate charts and analysis
 │
-├── venv/ # Virtual environment folder
+├── venv/ # Virtual environment folder (ignored by Git)
+│
 ├── README.md # Project documentation
 └── requirements.txt # List of required Python packages
-
 
 ## Installation and Setup
 
