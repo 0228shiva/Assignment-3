@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm / VSCode / other IDE configs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Python distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Test output
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+.cache
+.pytest_cache/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional: comment this if you want to track certain data files)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.tsv
+
+# Output reports and plots
+/reports/
+/output/
+/screenshots/
+/plots/
+
+# Environment variable files
+.env
+.env.*
+
+# ZIP or archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter notebooks (optional: uncomment if you don't want to version them)
+# *.ipynb

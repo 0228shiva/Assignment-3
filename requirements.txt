@@ -1,0 +1,7 @@
+pandas
+faker
+numpy
+python-dotenv
+requests
+openpyxl
+pytest
